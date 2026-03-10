@@ -1,0 +1,5 @@
+input_data:
+  file2: "../data/raw/realistic_ocean_climate_dataset.csv"
+
+output_data:
+  file: "../data/clean/cleaned_data_file.csv"

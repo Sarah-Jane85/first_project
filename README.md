@@ -1,77 +1,44 @@
-# Project overview
-...
+# Great Barrier Reef
 
-# Installation
+We would like to paint a picture what global warming is doing to the great barrier reef, warn for the consequeses and call for action from every individual
 
-1. **Clone the repository**:
+## Table of Contents
 
-```bash
-git clone https://github.com/YourUsername/repository_name.git
-```
+- [Contributing]
+- [Datasets]
+- [Challenge]
+- [Conclusion]
+- [Major_obstacles]
+- [URL_to_presentation] 
 
-2. **Install UV**
+## Contributing
+    - Francisca Andrade
+    - Sarah Jane Nede
+    - Gonçalo Trindade
 
-If you're a MacOS/Linux user type:
+## Datasets
+    - "Beginner_Climate_Change_Dataset_20_Features_1200_Rows.csv"
+    - "global_bleaching_environmental"
+    - "ocean_health_index"
+    - "realistic_ocean_climate_dataset_raw"
 
-```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```
+## Challenge
+Development of an Interactive Data Visualization Dashboard to Enhance Awareness and Encourage Individual Action for the Conservation of the Great Barrier Reef
 
-If you're a Windows user open an Anaconda Powershell Prompt and type :
+    ### Hypothesis 1: Reefs in the Great Barrier Reef experiencing higher sea surface temperatures and marine heatwaves will show greater coral bleaching severity and lower numbers of marine species observed.
 
-```bash
-powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-```
+    ### Hypothesis 2: Human-induced climate change is the primary threat to the Great Barrier Reef
 
-3. **Create an environment**
+    ### Hypothesis 3: The destruction of the great barrier reef will exacerbate climate-related impacts.
 
-```bash
-uv venv 
-```
+    ### Hypothesis 4: Marine heatwaves and elevated sea surface temperatures are associated with a decrease in the number of marine species observed.
 
-3. **Activate the environment**
+## Conclusion
 
-If you're a MacOS/Linux user type (if you're using a bash shell):
+## Major obstacles
+    ###Data cleaning
+        - Filling missing values was not always straight forward. It took several tries to get an proper overview of the data
+        - 
 
-```bash
-source ./venv/bin/activate
-```
-
-If you're a MacOS/Linux user type (if you're using a csh/tcsh shell):
-
-```bash
-source ./venv/bin/activate.csh
-```
-
-If you're a Windows user type:
-
-```bash
-.\venv\Scripts\activate
-```
-
-4. **Install dependencies**:
-
-```bash
-uv pip install -r requirements.txt
-```
-
-# Questions 
-...
-
-# Dataset 
-...
-
-## Main dataset issues
-
-- ...
-- ...
-- ...
-
-## Solutions for the dataset issues
-...
-
-# Conclussions
-...
-
-# Next steps
-...
+## URL_to_presentation
+https://prezi.com/view/MngxcxcvkTdVe468hMd2/?referral_token=Uo_AColnB3FN

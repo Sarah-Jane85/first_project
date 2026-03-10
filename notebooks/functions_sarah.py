@@ -1,14 +1,14 @@
-def clean_hhi2(df_hhi2):
+def clean_hhi(df_hhi):
     #make all column names lower case
-    df_hhi2.columns = df_hhi2.columns.str.lower()
+    df_hhi.columns = df_hhi.columns.str.lower()
     #drop columns
-    df_hhi2 = df_hhi2.drop(['ref_area', '2012', '2013'], axis=1)
+    df_hhi = df_hhi.drop(['ref_area', '2012', '2013'], axis=1)
     #filter GBR countries
-    filtered_ref_area_label = df_hhi2.loc[df_hhi2['ref_area_label'].isin(['Australia', 'Papua New Guinea'])]
-    df_hhi2_gbr = filtered_ref_area_label
-    return df_hhi2_gbr
+    filtered_ref_area_label = df_hhi.loc[df_hhi['ref_area_label'].isin(['Australia', 'Papua New Guinea'])]
+    df_hhi_gbr = filtered_ref_area_label
+    return df_hhi_gbr
 
-df_hhi2_gbr = clean_hhi2(df_hhi2)
+df_hhi_gbr = clean_hhi(df_hhi)
 
 def plot_line_chart(df, title='Scores by Area and Year'):
     # Extract unique areas and years (assuming consistent DataFrame structure)
@@ -45,5 +45,5 @@ def plot_line_chart(df, title='Scores by Area and Year'):
     plt.tight_layout()
     plt.show()
 
-# Call the function using df_hhi2_gbr
-plot_line_chart(df_hhi2_gbr)
+# Call the function using df_hhi_gbr
+plot_line_chart(df_hhi_gbr)

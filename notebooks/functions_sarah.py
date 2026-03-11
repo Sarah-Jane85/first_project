@@ -1,3 +1,4 @@
+#clean dataset hhi
 def clean_hhi(df_hhi):
     #make all column names lower case
     df_hhi.columns = df_hhi.columns.str.lower()
@@ -9,6 +10,8 @@ def clean_hhi(df_hhi):
     return df_hhi_gbr
 
 df_hhi_gbr = clean_hhi(df_hhi)
+
+
 
 def plot_line_chart(df, title='Scores by Area and Year'):
     # Extract unique areas and years (assuming consistent DataFrame structure)

@@ -1,5 +1,6 @@
 input_data:
   file1: "../data/raw/Beginner_Climate_Change_Dataset_20_Features_1200_Rows.csv"
+  file2: "../data/raw/realistic_ocean_climate_dataset.csv"
   file3: "../data/raw/ocean_health_index.csv"
   file4: "../data/raw/global_bleaching_environmental.csv"
 

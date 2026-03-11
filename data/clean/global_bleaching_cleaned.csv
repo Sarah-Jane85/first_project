@@ -1,0 +1,125 @@
+ecoregion_name,country_name,distance_to_shore,exposure,cyclone_frequency,bleaching_level,percent_bleaching,climsst,ssta,ssta_standard_deviation,date,bleaching_comments
+Central and northern Great Barrier Reef,Australia,57467.04,Sheltered,48.94,Population,0.0,296.66,0.42,0.79,2017-07-09,nd
+Central and northern Great Barrier Reef,Australia,57656.01,Sheltered,48.94,Population,0.0,296.66,0.42,0.79,2017-07-09,nd
+Central and northern Great Barrier Reef,Australia,43199.05,Sheltered,43.31,Population,0.0,296.51,0.77,0.82,2017-07-07,nd
+Central and northern Great Barrier Reef,Australia,41586.65,Sheltered,48.37,Population,0.0,298.59,-2.3,2.23,2017-08-05,nd
+Central and northern Great Barrier Reef,Australia,145.07,Exposed,43.52,Population,0.0,295.84,1.62,1.02,2017-07-07,nd
+Southern Great Barrier Reef,Australia,54.69,Sheltered,51.46,Population,0.25,299.83,0.0,0.72,2015-11-24,nd
+Southern Great Barrier Reef,Australia,459.75,Sheltered,51.46,Population,0.25,297.41,0.8,0.72,2016-09-22,nd
+Southern Great Barrier Reef,Australia,184.65,Sheltered,51.57,Population,0.25,297.41,0.8,0.72,2016-09-22,nd
+Central and northern Great Barrier Reef,Australia,57425.12,Sheltered,48.94,Population,0.5,296.66,0.42,0.79,2017-07-08,nd
+Central and northern Great Barrier Reef,Australia,220.26,Exposed,43.52,Population,0.5,301.47,1.59,1.02,2017-10-15,nd
+Central and northern Great Barrier Reef,Australia,123.51,Sometimes,43.39,Population,0.75,301.69,-0.14,0.98,2015-10-24,nd
+Southern Great Barrier Reef,Australia,459.75,Sheltered,51.46,Population,0.75,299.99,0.39,0.72,2015-11-27,nd
+Southern Great Barrier Reef,Australia,782.39,Sheltered,51.57,Population,0.75,297.41,0.8,0.72,2016-09-22,nd
+Southern Great Barrier Reef,Australia,2173.19,Sheltered,51.57,Population,1.0,299.92,0.42,0.73,2015-11-24,nd
+Southern Great Barrier Reef,Australia,1345.62,Sheltered,51.57,Population,1.0,299.92,0.42,0.73,2015-11-24,nd
+Southern Great Barrier Reef,Australia,782.39,Sheltered,51.57,Population,1.0,299.99,0.39,0.72,2015-11-28,nd
+Southern Great Barrier Reef,Australia,95.43,Sheltered,51.57,Population,1.0,299.99,0.39,0.72,2015-11-28,nd
+Southern Great Barrier Reef,Australia,106.65,Sheltered,51.57,Population,1.0,299.99,0.39,0.72,2015-11-29,nd
+Southern Great Barrier Reef,Australia,94.8,Sheltered,51.46,Population,1.0,299.99,0.39,0.72,2015-11-25,nd
+Southern Great Barrier Reef,Australia,1739.41,Exposed,51.57,Population,1.0,299.99,0.39,0.72,2015-11-25,nd
+Southern Great Barrier Reef,Australia,847.35,Exposed,51.57,Population,1.0,299.99,0.39,0.72,2015-11-28,nd
+Southern Great Barrier Reef,Australia,1152.07,Exposed,51.57,Population,1.0,299.99,0.39,0.72,2015-11-25,nd
+Southern Great Barrier Reef,Australia,847.35,Exposed,51.57,Population,1.0,297.05,0.38,0.72,2016-09-20,nd
+Central and northern Great Barrier Reef,Australia,19.02,Sheltered,45.33,Population,1.0,296.48,1.76,0.93,2017-08-06,nd
+Central and northern Great Barrier Reef,Australia,2795.93,Sheltered,43.52,Population,1.0,298.7,1.94,1.02,2017-03-18,nd
+Central and northern Great Barrier Reef,Australia,2865.08,Sheltered,43.52,Population,1.0,298.7,1.94,1.02,2017-03-18,nd
+Southern Great Barrier Reef,Australia,2173.19,Sheltered,51.57,Population,1.0,299.15,0.94,0.73,2017-10-29,nd
+Southern Great Barrier Reef,Australia,665.19,Sheltered,51.46,Population,1.0,299.35,0.82,0.72,2017-11-03,nd
+Southern Great Barrier Reef,Australia,682.44,Exposed,51.46,Population,1.0,299.08,0.82,0.72,2017-10-31,nd
+Southern Great Barrier Reef,Australia,847.35,Exposed,51.57,Population,1.0,299.08,0.82,0.72,2017-10-31,nd
+Central and northern Great Barrier Reef,Australia,29487.39,Sheltered,48.1,Population,1.25,296.83,0.98,0.77,2017-08-07,nd
+Central and northern Great Barrier Reef,Australia,40871.05,Sheltered,48.37,Population,1.25,298.59,-2.3,2.23,2017-08-05,nd
+Southern Great Barrier Reef,Australia,459.75,Sheltered,51.46,Population,1.25,299.35,0.82,0.72,2017-11-02,nd
+Central and northern Great Barrier Reef,Australia,53198.14,Exposed,50.4,Population,1.5,301.47,-0.2,0.87,2016-10-30,nd
+Southern Great Barrier Reef,Australia,1345.62,Sheltered,51.57,Population,1.75,299.15,0.94,0.73,2017-10-29,nd
+Central and northern Great Barrier Reef,Australia,742.91,Sheltered,63.92,Population,2.0,297.64,0.3,0.88,2015-08-02,nd
+Southern Great Barrier Reef,Australia,1739.41,Exposed,51.57,Population,2.0,297.05,0.38,0.72,2016-09-19,nd
+Central and northern Great Barrier Reef,Australia,123.51,Sometimes,43.39,Population,2.0,294.89,-0.78,0.98,2017-06-09,nd
+Southern Great Barrier Reef,Australia,930.8,Exposed,51.57,Population,2.0,299.35,0.82,0.72,2017-11-03,nd
+Central and northern Great Barrier Reef,Australia,224.53,Exposed,43.52,Population,2.25,301.69,-0.09,1.02,2015-10-24,nd
+Central and northern Great Barrier Reef,Australia,123.51,Sometimes,43.39,Population,2.25,294.89,-0.78,0.98,2017-06-09,nd
+Central and northern Great Barrier Reef,Australia,57761.46,Sheltered,48.94,Population,2.25,296.66,0.42,0.79,2017-07-08,nd
+Southern Great Barrier Reef,Australia,54.69,Sheltered,51.46,Population,2.75,297.05,0.38,0.72,2016-09-18,nd
+Central and northern Great Barrier Reef,Australia,742.91,Sheltered,63.92,Population,3.0,297.64,0.3,0.88,2015-08-02,nd
+Central and northern Great Barrier Reef,Australia,39847.16,Sheltered,71.88,Population,3.25,299.42,0.22,0.84,2015-09-13,nd
+Central and northern Great Barrier Reef,Australia,37626.29,Sheltered,52.46,Population,3.25,298.9,0.95,0.87,2015-08-30,nd
+Central and northern Great Barrier Reef,Australia,224.53,Exposed,43.52,Population,3.5,294.83,0.29,1.02,2017-06-09,nd
+Central and northern Great Barrier Reef,Australia,21755.41,Sheltered,36.0,Population,3.5,301.53,1.36,0.85,2017-10-28,nd
+Southern Great Barrier Reef,Australia,1152.07,Exposed,51.57,Population,3.5,299.08,0.82,0.72,2017-10-30,nd
+Central and northern Great Barrier Reef,Australia,33605.64,Sheltered,71.88,Population,4.0,301.42,0.24,0.86,2016-10-29,nd
+Southern Great Barrier Reef,Australia,1152.07,Exposed,51.57,Population,4.0,297.05,0.38,0.72,2016-09-19,nd
+Southern Great Barrier Reef,Australia,192.41,Sheltered,51.46,Population,4.25,299.99,0.39,0.72,2015-11-27,nd
+Southern Great Barrier Reef,Australia,1345.62,Sheltered,51.57,Population,4.25,297.07,0.53,0.73,2016-09-18,nd
+Southern Great Barrier Reef,Australia,1739.41,Exposed,51.57,Population,4.25,299.08,0.82,0.72,2017-10-30,nd
+Central and northern Great Barrier Reef,Australia,562.43,Sheltered,47.44,Population,4.5,298.91,-2.03,2.48,2015-10-01,nd
+Central and northern Great Barrier Reef,Australia,123.51,Sometimes,43.39,Population,4.5,297.14,0.39,0.98,2016-04-09,nd
+Central and northern Great Barrier Reef,Australia,29934.17,Sheltered,48.1,Population,4.75,295.74,1.73,0.77,2016-05-28,nd
+Central and northern Great Barrier Reef,Australia,224.53,Exposed,43.52,Population,4.75,297.02,0.34,1.02,2016-04-10,nd
+Central and northern Great Barrier Reef,Australia,126.24,Sometimes,43.39,Population,5.0,295.18,1.64,0.98,2016-06-26,nd
+Southern Great Barrier Reef,Australia,95.43,Sheltered,51.57,Population,5.0,297.05,0.38,0.72,2016-09-19,nd
+Southern Great Barrier Reef,Australia,192.41,Sheltered,51.46,Population,5.0,297.41,0.8,0.72,2016-09-21,nd
+Southern Great Barrier Reef,Australia,106.65,Sheltered,51.57,Population,5.0,297.41,0.8,0.72,2016-09-21,nd
+Southern Great Barrier Reef,Australia,665.19,Sheltered,51.46,Population,5.25,297.05,0.38,0.72,2016-09-20,nd
+Southern Great Barrier Reef,Australia,226.58,Sheltered,51.46,Population,5.75,299.99,0.39,0.72,2015-11-26,nd
+Central and northern Great Barrier Reef,Australia,350.3,Sheltered,43.39,Population,6.0,298.66,2.78,0.98,2017-03-19,nd
+Southern Great Barrier Reef,Australia,26.88,Sheltered,43.06,Population,6.25,297.78,1.32,0.87,2016-03-26,nd
+Central and northern Great Barrier Reef,Australia,216.38,Sometimes,43.39,Population,6.25,298.66,2.78,0.98,2017-03-19,nd
+Central and northern Great Barrier Reef,Australia,2865.08,Sheltered,43.52,Population,6.5,296.78,1.64,1.02,2015-07-25,nd
+Southern Great Barrier Reef,Australia,2173.19,Sheltered,51.57,Population,6.5,297.07,0.53,0.73,2016-09-18,nd
+Southern Great Barrier Reef,Australia,54.69,Sheltered,51.46,Population,6.5,299.08,0.82,0.72,2017-10-29,nd
+Central and northern Great Barrier Reef,Australia,123.51,Sometimes,43.39,Population,8.25,297.14,0.39,0.98,2016-04-09,nd
+Central and northern Great Barrier Reef,Australia,2795.93,Sheltered,43.52,Population,8.75,296.78,1.64,1.02,2015-07-25,nd
+Central and northern Great Barrier Reef,Australia,46945.93,Sheltered,60.01,Population,8.75,299.46,0.19,0.85,2015-09-13,nd
+Central and northern Great Barrier Reef,Australia,21755.41,Sheltered,36.0,Population,8.75,301.53,0.08,0.85,2016-10-30,nd
+Southern Great Barrier Reef,Australia,840.6,Sometimes,43.06,Population,8.75,297.78,1.32,0.87,2016-03-26,nd
+Central and northern Great Barrier Reef,Australia,49.79,Sheltered,46.88,Population,9.25,298.77,0.56,2.42,2016-04-23,nd
+Central and northern Great Barrier Reef,Australia,29008.14,Sheltered,48.1,Population,9.5,295.74,1.73,0.77,2016-05-28,nd
+Central and northern Great Barrier Reef,Australia,21755.41,Sheltered,36.0,Population,10.0,301.53,0.08,0.85,2016-10-30,nd
+Southern Great Barrier Reef,Australia,226.58,Sheltered,51.46,Population,10.0,297.05,0.38,0.72,2016-09-20,nd
+Southern Great Barrier Reef,Australia,782.39,Sheltered,51.57,Population,10.0,299.35,0.82,0.72,2017-11-02,nd
+Southern Great Barrier Reef,Australia,184.65,Sheltered,51.57,Population,10.0,299.35,0.82,0.72,2017-11-04,nd
+Southern Great Barrier Reef,Australia,247.29,Exposed,39.06,Population,11.25,298.17,0.87,0.82,2016-03-27,nd
+Central and northern Great Barrier Reef,Australia,29008.14,Sheltered,48.1,Population,11.75,296.83,0.98,0.77,2017-08-07,nd
+Central and northern Great Barrier Reef,Australia,562.43,Sheltered,47.44,Population,12.5,299.85,-0.72,0.88,2015-10-02,nd
+Southern Great Barrier Reef,Australia,226.58,Sheltered,51.46,Population,12.5,299.35,0.82,0.72,2017-11-01,nd
+Central and northern Great Barrier Reef,Australia,216.38,Sometimes,43.39,Population,13.25,296.52,1.11,0.98,2015-07-26,nd
+Central and northern Great Barrier Reef,Australia,38514.12,Sheltered,48.8,Population,13.75,298.86,1.43,0.84,2015-08-29,nd
+Southern Great Barrier Reef,Australia,192.41,Sheltered,51.46,Population,15.0,299.08,0.82,0.72,2017-10-30,nd
+Southern Great Barrier Reef,Australia,94.8,Sheltered,51.46,Population,15.25,297.05,0.38,0.72,2016-09-20,nd
+Central and northern Great Barrier Reef,Australia,20.86,Sheltered,44.24,Population,16.25,301.74,0.97,0.87,2017-10-29,nd
+Central and northern Great Barrier Reef,Australia,40871.05,Sheltered,48.37,Population,17.25,298.51,0.06,2.23,2016-05-29,nd
+Central and northern Great Barrier Reef,Australia,19577.87,Exposed,43.97,Population,17.5,299.09,0.7,2.58,2016-10-12,nd
+Southern Great Barrier Reef,Australia,94.8,Sheltered,51.46,Population,17.5,299.35,0.82,0.72,2017-11-02,nd
+Central and northern Great Barrier Reef,Australia,350.3,Sheltered,43.39,Population,20.0,295.18,1.64,0.98,2016-06-26,nd
+Central and northern Great Barrier Reef,Australia,38506.76,Sheltered,48.8,Population,22.5,298.86,1.43,0.84,2015-08-29,nd
+Central and northern Great Barrier Reef,Australia,326.99,Sheltered,43.39,Population,24.25,296.53,1.11,0.96,2015-07-26,nd
+Southern Great Barrier Reef,Australia,211.24,Sheltered,39.06,Population,25.0,298.21,1.07,0.81,2016-03-27,nd
+Southern Great Barrier Reef,Australia,106.65,Sheltered,51.57,Population,25.0,299.35,0.82,0.72,2017-11-01,nd
+Central and northern Great Barrier Reef,Australia,35199.4,Sheltered,50.97,Population,28.75,298.87,0.83,0.88,2015-08-30,nd
+Southern Great Barrier Reef,Australia,95.43,Sheltered,51.57,Population,30.0,299.08,0.82,0.72,2017-10-31,nd
+Central and northern Great Barrier Reef,Australia,35199.4,Sheltered,50.97,Population,31.0,297.67,-0.43,0.88,2017-04-30,nd
+Central and northern Great Barrier Reef,Australia,41586.65,Sheltered,48.37,Population,32.5,298.51,0.06,2.23,2016-05-29,nd
+Central and northern Great Barrier Reef,Australia,22.86,Sheltered,45.33,Population,33.75,296.48,1.76,0.93,2017-08-06,nd
+Central and northern Great Barrier Reef,Australia,562.43,Sheltered,47.44,Population,35.0,299.85,-0.72,0.88,2015-10-02,nd
+Central and northern Great Barrier Reef,Australia,742.91,Sheltered,63.92,Population,35.0,296.86,-0.12,0.88,2017-05-01,nd
+Central and northern Great Barrier Reef,Australia,36098.44,Sheltered,50.97,Population,35.25,297.67,-0.43,0.88,2017-04-30,nd
+Central and northern Great Barrier Reef,Australia,562.43,Sheltered,47.44,Population,40.0,296.79,0.43,0.88,2016-04-23,nd
+Central and northern Great Barrier Reef,Australia,34986.69,Sheltered,50.97,Population,42.75,297.67,-0.43,0.88,2017-04-30,nd
+Central and northern Great Barrier Reef,Australia,31869.41,Sometimes,52.46,Population,52.5,297.55,1.6,0.87,2016-04-30,nd
+Central and northern Great Barrier Reef,Australia,35199.4,Sheltered,50.97,Population,56.25,297.67,0.82,0.88,2016-04-30,nd
+Central and northern Great Barrier Reef,Australia,2795.93,Sheltered,43.52,Population,57.5,295.29,1.71,1.02,2016-06-25,nd
+Central and northern Great Barrier Reef,Australia,39227.48,Sheltered,71.88,Population,58.75,298.16,0.79,0.84,2016-04-17,nd
+Central and northern Great Barrier Reef,Australia,46945.93,Sheltered,60.01,Population,60.0,298.34,0.92,0.85,2016-04-17,nd
+Central and northern Great Barrier Reef,Australia,742.91,Sheltered,63.92,Population,65.0,296.86,-0.12,0.88,2017-05-01,nd
+Central and northern Great Barrier Reef,Australia,21755.41,Sheltered,36.0,Population,67.5,299.47,0.22,0.85,2015-09-12,nd
+Central and northern Great Barrier Reef,Australia,21755.41,Sheltered,36.0,Population,72.5,298.15,0.64,0.85,2016-04-17,nd
+Central and northern Great Barrier Reef,Australia,39847.16,Sheltered,71.88,Population,75.75,298.73,0.85,0.84,2017-04-02,nd
+Central and northern Great Barrier Reef,Australia,46945.93,Sheltered,60.01,Population,77.5,298.9,1.25,0.85,2017-04-02,nd
+Central and northern Great Barrier Reef,Australia,21755.41,Sheltered,36.0,Population,91.0,298.73,1.44,0.85,2017-04-01,nd
+Central and northern Great Barrier Reef,Australia,21755.41,Sheltered,36.0,Population,95.5,298.73,1.44,0.85,2017-04-01,nd
+Central and northern Great Barrier Reef,Australia,22.86,Sheltered,45.33,nd,,296.21,0.25,0.93,2016-04-25,nd
+Central and northern Great Barrier Reef,Australia,46.06,Sheltered,45.33,nd,,296.21,0.25,0.93,2016-04-25,nd
+Central and northern Great Barrier Reef,Australia,562.43,Sheltered,47.44,nd,,296.79,0.43,0.88,2016-04-24,nd
+Southern Great Barrier Reef,Australia,665.19,Sheltered,51.46,nd,,299.99,0.39,0.72,2015-11-27,nd

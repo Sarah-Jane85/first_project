@@ -1,0 +1,95 @@
+Conventions,G,BADC-CSV,1
+title,G,Global mean temperature
+last_revised_date,G,2023-03-03
+date_valid,G,2023-03-03
+feature_type,G,area average
+creator,G,WMO
+source,G,Produced by climind version 0.1
+observation_station,G,derived data
+location,G,90.,-180.,-90.,180.
+activity,G,WMO
+history,G,"Data set created from file ['JRA-55_tmp2m_global_ts_Clim8110.txt'] downloaded from [''] at ['2023-01-09 10:09:00']"
+history,G,"Rebaselined to 1981-2010 for each month separately by calculating the arithmetic mean of the data over the baseline period and subtracting the mean from all data values. This is done for each month separately (Januarys, Februarys etc)."
+history,G,"Calculated annual average from monthly averages using arithmetic mean"
+history,G,"Selected years within the range 1850 to 2022."
+history,G,"Added offset of 0.69 to all data values."
+history,G,"Manually changed baseline to 1850-1900. Note that data values remain unchanged."
+reference,G,"Kobayashi, S., Ota, Y., Harada, Y., Ebita, A., Moriya, M., Onoda, H., Onogi, K., Kamahori, H., Kobayashi, C., Endo, H. and Miyaoka, K., (2015). The JRA-55 reanalysis: General specifications and basic characteristics. Journal of the Meteorological Society of Japan. Ser. II, 93(1), pp.5-48."
+rights,G,TBD
+comments,G,Data produced by climind version 0.1
+comments,G,Format description https://help.ceda.ac.uk/article/105-badc-csv
+long_name,time,time,days since 1800-01-01 00:00:00.0
+type,time,int
+long_name,year,year,1
+type,year,int
+long_name,data,tas,degC
+type,data,float
+coordinate_variable,time,t
+data
+time,year,data
+57708,1958,0.4135
+58073,1959,0.3470
+58438,1960,0.3291
+58804,1961,0.3531
+59169,1962,0.3391
+59534,1963,0.3411
+59899,1964,0.1444
+60265,1965,0.2156
+60630,1966,0.2484
+60995,1967,0.2451
+61360,1968,0.2169
+61726,1969,0.3659
+62091,1970,0.3247
+62456,1971,0.1989
+62821,1972,0.3092
+63187,1973,0.4079
+63552,1974,0.1387
+63917,1975,0.1999
+64282,1976,0.0923
+64648,1977,0.3682
+65013,1978,0.3066
+65378,1979,0.4234
+65743,1980,0.5488
+66109,1981,0.5879
+66474,1982,0.4014
+66839,1983,0.5839
+67204,1984,0.3963
+67570,1985,0.3651
+67935,1986,0.4639
+68300,1987,0.6033
+68665,1988,0.6292
+69031,1989,0.5209
+69396,1990,0.7088
+69761,1991,0.6638
+70126,1992,0.4718
+70492,1993,0.5082
+70857,1994,0.5781
+71222,1995,0.7517
+71587,1996,0.6207
+71953,1997,0.7339
+72318,1998,0.9306
+72683,1999,0.6833
+73048,2000,0.6841
+73414,2001,0.8141
+73779,2002,0.9187
+74144,2003,0.8730
+74509,2004,0.7833
+74875,2005,0.9608
+75240,2006,0.9123
+75605,2007,0.9064
+75970,2008,0.7629
+76336,2009,0.9015
+76701,2010,0.9800
+77066,2011,0.8631
+77431,2012,0.9053
+77797,2013,0.9437
+78162,2014,0.9849
+78527,2015,1.1170
+78892,2016,1.3015
+79258,2017,1.1665
+79623,2018,1.0827
+79988,2019,1.2396
+80353,2020,1.2347
+80719,2021,1.0813
+81084,2022,1.1296
+end data

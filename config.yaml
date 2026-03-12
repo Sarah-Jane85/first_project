@@ -12,5 +12,9 @@ input_data:
 
 
 output_data:
-  file1: "../data/clean/cleaned_data_file.csv"
+  file4: "../data/clean/cleaned_data_file.csv"
  
+  output_data:
+  file1: "../data/clean/climate_change_cleaned.csv"
+  file2: "../data/clean/global_bleaching_cleaned.csv"
+  file3: "..data/clean/ocean_climate_clean.csv"

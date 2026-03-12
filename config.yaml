@@ -3,6 +3,14 @@ input_data:
   file2: "../data/raw/realistic_ocean_climate_dataset.csv"
   file3: "../data/raw/ocean_health_index.csv"
   file4: "../data/raw/global_bleaching_environmental.csv"
+  file5: "../data/raw/Nasa global warming.csv"
+  File6: "../data/raw/tas_Berkeley_Earth.csv"
+  file7: "../data/raw/tas_ERA5.csv"
+  file8: "../data/raw/tas_GISTEMP.csv"
+  file9: "../data/raw/tas_NOAAGlobalTemp.csv"
+  file10: "../data/raw/tas_JRA-55.csv"
+
 
 output_data:
-  file: "../data/clean/cleaned_data_file.csv"
+  file1: "../data/clean/cleaned_data_file.csv"
+ 

@@ -11,8 +11,6 @@ input_data:
   file10: "../data/raw/tas_JRA-55.csv"
 
 
-output_data:
-  file4: "../data/clean/cleaned_data_file.csv"
  
   output_data:
   file1: "../data/clean/climate_change_cleaned.csv"

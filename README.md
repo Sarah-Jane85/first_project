@@ -25,6 +25,9 @@ We would like to paint a picture what global warming is doing to the great barri
     - "realistic_ocean_climate_dataset_raw"
     - https://www.visitsealife.com
     - https://climate.mit.edu/ask-mit/what-would-happen-if-we-lost-all-coral-reefs 
+    - "tas_NOAAGlobalTemp.csv"
+    - "global_bleaching_environmental.csv"
+    - 
 
 
 ## Challenge

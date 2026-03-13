@@ -20,15 +20,18 @@ We would like to paint a picture what global warming is doing to the great barri
 ## Datasets and sources
 
     - "Beginner_Climate_Change_Dataset_20_Features_1200_Rows.csv"
-    - "global_bleaching_environmental"
-    - "ocean_health_index"
-    - "realistic_ocean_climate_dataset_raw"
-    - https://www.visitsealife.com
-    - https://climate.mit.edu/ask-mit/what-would-happen-if-we-lost-all-coral-reefs 
+    - "ocean_health_index.csv"
+    - "shi"fting-seas-ocean-climate-and-marine-life-dataset" as "realistic_ocean_climate_dataset.csv"
     - "tas_NOAAGlobalTemp.csv"
     - "global_bleaching_environmental.csv"
-    - 
-
+    - "Nasa global warming.csv"
+    - "tas_Berkeley_Earth.csv"
+    - "tas_ERA5.csv"
+    - "tas_GISTEMP.csv"
+    - "tas_JRA-55.csv"
+    - https://www.visitsealife.com
+    - https://climate.mit.edu/ask-mit what-would-happen-if-we-lost-all-coral-reefs
+    - https://science.nasa.gov/earth/earth-observatory/la-nina-fact-sheet/
 
 ## Challenge
 
@@ -51,7 +54,6 @@ The dashboard aims to visualize how climate change affects reef ecosystems and w
         Marine heatwaves, elevated sea surface temperatures, and coral bleaching 
         are associated with a decrease in the number of marine species observed 
         on affected reefs.
-
   
 ## Conclusion
 

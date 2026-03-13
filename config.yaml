@@ -9,8 +9,8 @@ input_data:
   file8: "../data/raw/tas_GISTEMP.csv"
   file9: "../data/raw/tas_NOAAGlobalTemp.csv"
   file10: "../data/raw/tas_JRA-55.csv"
- 
-  output_data:
+  
+ output_data:
   file1: "../data/clean/climate_change_cleaned.csv"
   file2: "../data/clean/global_bleaching_cleaned.csv"
   file3: "..data/clean/ocean_climate_clean.csv"
